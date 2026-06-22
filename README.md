@@ -15,7 +15,7 @@
 
 ### About
 
-Team Lead for Business Intelligence at **Cartus**, with **11+ years inside the global mobility & relocation industry**. I sit at the intersection of three things most people keep separate - **Business Intelligence, AI/ML, and process automation** — and use that mix to ship tools that actually save operations teams real hours, not just dashboards that look nice.
+Team Lead for Business Intelligence at **Cartus**, with **11+ years inside the global mobility & relocation industry**. I sit at the intersection of three things most people keep separate - **Business Intelligence, AI/ML, and process automation** - and use that mix to ship tools that actually save operations teams real hours, not just dashboards that look nice.
 
 Lately I'm building an AI-first portfolio in public: production-style apps that solve concrete operational problems end to end, from data to deployed interface.
 
