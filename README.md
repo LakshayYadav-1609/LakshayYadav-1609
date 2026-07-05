@@ -110,12 +110,15 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
 ### 📈 &nbsp;GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LakshayYadav-1609&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayYadav-1609&layout=compact&hide_border=true&theme=graywhite&hide=jupyter%20notebook" alt="Top languages">
+  <a href="https://github.com/LakshayYadav-1609?tab=followers"><img src="https://img.shields.io/github/followers/LakshayYadav-1609?style=for-the-badge&logo=github&labelColor=1A2332&color=B98A2F" alt="Followers"></a>
+  &nbsp;
+  <a href="https://github.com/LakshayYadav-1609?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=1A2332&color=B3382E&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLakshayYadav-1609" alt="Repos"></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=LakshayYadav-1609&style=for-the-badge&color=B98A2F&label=Profile+Views" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LakshayYadav-1609&hide_border=true&theme=graywhite" alt="GitHub streak">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshayYadav-1609&theme=minimal&hide_border=true&area=true&color=B98A2F&line=B3382E&point=1A2332" alt="Contribution graph">
 </p>
 
 ---
