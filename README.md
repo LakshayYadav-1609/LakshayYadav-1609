@@ -23,9 +23,9 @@
 
 ### 👋 &nbsp;About
 
-Team Lead for Business Intelligence at **Cartus**, with **11+ years inside the global mobility &amp; relocation industry**. I work at the intersection of three things most people keep separate — **Business Intelligence, AI/ML, and process automation** — and use that mix to ship tools that save operations teams real hours, not just dashboards that look nice.
+Team Lead for Business Intelligence at **Cartus**, with **11+ years inside the global mobility &amp; relocation industry**. I work at the intersection of three things most people keep separate - **Business Intelligence, AI/ML, and process automation** - and use that mix to ship tools that save operations teams real hours, not just dashboards that look nice.
 
-Right now I'm building an **AI-first portfolio in public**: production-style apps that solve concrete operational problems end to end — from raw data to a deployed interface.
+Right now I'm building an **AI-first portfolio in public**: production-style apps that solve concrete operational problems end to end - from raw data to a deployed interface.
 
 ---
 
@@ -46,19 +46,19 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
   <tr>
     <td width="50%" valign="top">
       <h4>🔍 &nbsp;<a href="https://github.com/LakshayYadav-1609/attrition-autopsy">Attrition Autopsy</a> &nbsp;<kbd>new</kbd></h4>
-      <p>A <b>multi-agent AI system</b> that investigates employee attrition like a forensic case — <b>4 LangGraph agents</b> uncover the <i>who, why, cost (₹) and save plan</i> for every predicted exit, then dispatch a case-file alert to HR's inbox in one click.</p>
+      <p>A <b>multi-agent AI system</b> that investigates employee attrition like a forensic case - <b>4 LangGraph agents</b> uncover the <i>who, why, cost (₹) and save plan</i> for every predicted exit, then dispatch a case-file alert to HR's inbox in one click.</p>
       <sub><code>Python</code> · <code>LangGraph</code> · <code>scikit-learn</code> · <code>Streamlit</code> · <code>Claude AI</code></sub>
     </td>
     <td width="50%" valign="top">
       <h4>🛰️ &nbsp;<a href="https://github.com/LakshayYadav-1609/Regulatory-change-intelligence-monitor">Regulatory Change Intelligence Monitor</a></h4>
-      <p>AI watches <b>20+ government portals</b> for silent visa, labor-law and compliance changes, scores the impact on <b>each affected employee</b>, and fires <b>automated email alerts</b> — <i>caught in hours, not weeks.</i></p>
+      <p>AI watches <b>20+ government portals</b> for silent visa, labor-law and compliance changes, scores the impact on <b>each affected employee</b>, and fires <b>automated email alerts</b> - <i>caught in hours, not weeks.</i></p>
       <sub><code>Python</code> · <code>Streamlit</code> · <code>Anthropic</code> · <code>Automation</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🧭 &nbsp;<a href="https://github.com/LakshayYadav-1609/-mobility-command-center">Mobility Operations Command Center</a></h4>
-      <p>A multi-page operations cockpit for global-mobility teams — live KPIs, alerts and case tracking behind a clean glassmorphism UI.</p>
+      <p>A multi-page operations cockpit for global-mobility teams - live KPIs, alerts and case tracking behind a clean glassmorphism UI.</p>
       <sub><code>Python</code> · <code>Streamlit</code></sub>
     </td>
     <td width="50%" valign="top">
@@ -70,7 +70,7 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
   <tr>
     <td width="50%" valign="top">
       <h4>📄 &nbsp;<a href="https://github.com/LakshayYadav-1609/smart-pdf-chat">SmartPDF Chat</a></h4>
-      <p>Chat with any PDF — ask questions and get grounded answers pulled straight from the document.</p>
+      <p>Chat with any PDF - ask questions and get grounded answers pulled straight from the document.</p>
       <sub><code>Python</code> · <code>LLM</code></sub>
     </td>
     <td width="50%" valign="top">
@@ -81,7 +81,7 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
   </tr>
 </table>
 
-> 💡 &nbsp;*Each project is a real operational problem solved end to end — not a tutorial clone.*
+> 💡 &nbsp;*Each project is a real operational problem solved end to end - not a tutorial clone.*
 
 ---
 
