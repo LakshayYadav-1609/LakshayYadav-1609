@@ -42,33 +42,44 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
 
 ### 🚀 &nbsp;Selected Work
 
-🛰️ &nbsp;**[Regulatory Change Intelligence Monitor](https://github.com/LakshayYadav-1609/Regulatory-change-intelligence-monitor)** &nbsp;·&nbsp; <kbd>new</kbd><br>
-AI watches **20+ government portals** for silent visa, labor-law and compliance changes, scores the impact on **each affected employee**, and fires **automated email alerts** — *caught in hours, not weeks.*<br>
-<sub>`Python` · `Streamlit` · `Anthropic` · `Automation`</sub>
-
-<br>
-
-🧭 &nbsp;**[Mobility Operations Command Center](https://github.com/LakshayYadav-1609/-mobility-command-center)**<br>
-A multi-page operations cockpit for global-mobility teams — live KPIs, alerts and case tracking behind a clean glassmorphism UI.<br>
-<sub>`Python` · `Streamlit`</sub>
-
-<br>
-
-🔔 &nbsp;**[Smart Business Alert System](https://github.com/LakshayYadav-1609/smart-alert-system)**<br>
-Watches business data and fires intelligent, rule-driven alerts so teams act before issues escalate.<br>
-<sub>`Python`</sub>
-
-<br>
-
-📄 &nbsp;**[SmartPDF Chat](https://github.com/LakshayYadav-1609/smart-pdf-chat)**<br>
-Chat with any PDF — ask questions and get grounded answers pulled straight from the document.<br>
-<sub>`Python` · `LLM`</sub>
-
-<br>
-
-📈 &nbsp;**[Insurance Analysis](https://github.com/LakshayYadav-1609/Insurance-Analysis---Linear-Regression)**<br>
-A Python analysis project exploring the patterns and drivers behind insurance data.<br>
-<sub>`Python` · `scikit-learn`</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 &nbsp;<a href="https://github.com/LakshayYadav-1609/attrition-autopsy">Attrition Autopsy</a> &nbsp;<kbd>new</kbd></h4>
+      <p>A <b>multi-agent AI system</b> that investigates employee attrition like a forensic case — <b>4 LangGraph agents</b> uncover the <i>who, why, cost (₹) and save plan</i> for every predicted exit, then dispatch a case-file alert to HR's inbox in one click.</p>
+      <sub><code>Python</code> · <code>LangGraph</code> · <code>scikit-learn</code> · <code>Streamlit</code> · <code>Claude AI</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛰️ &nbsp;<a href="https://github.com/LakshayYadav-1609/Regulatory-change-intelligence-monitor">Regulatory Change Intelligence Monitor</a></h4>
+      <p>AI watches <b>20+ government portals</b> for silent visa, labor-law and compliance changes, scores the impact on <b>each affected employee</b>, and fires <b>automated email alerts</b> — <i>caught in hours, not weeks.</i></p>
+      <sub><code>Python</code> · <code>Streamlit</code> · <code>Anthropic</code> · <code>Automation</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧭 &nbsp;<a href="https://github.com/LakshayYadav-1609/-mobility-command-center">Mobility Operations Command Center</a></h4>
+      <p>A multi-page operations cockpit for global-mobility teams — live KPIs, alerts and case tracking behind a clean glassmorphism UI.</p>
+      <sub><code>Python</code> · <code>Streamlit</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔔 &nbsp;<a href="https://github.com/LakshayYadav-1609/smart-alert-system">Smart Business Alert System</a></h4>
+      <p>Watches business data and fires intelligent, rule-driven alerts so teams act before issues escalate.</p>
+      <sub><code>Python</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 &nbsp;<a href="https://github.com/LakshayYadav-1609/smart-pdf-chat">SmartPDF Chat</a></h4>
+      <p>Chat with any PDF — ask questions and get grounded answers pulled straight from the document.</p>
+      <sub><code>Python</code> · <code>LLM</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 &nbsp;<a href="https://github.com/LakshayYadav-1609/Insurance-Analysis---Linear-Regression">Insurance Analysis</a></h4>
+      <p>A Python analysis project exploring the patterns and drivers behind insurance data.</p>
+      <sub><code>Python</code> · <code>scikit-learn</code></sub>
+    </td>
+  </tr>
+</table>
 
 > 💡 &nbsp;*Each project is a real operational problem solved end to end — not a tutorial clone.*
 
@@ -84,6 +95,7 @@ A Python analysis project exploring the patterns and drivers behind insurance da
 **AI / ML**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -111,9 +123,10 @@ A Python analysis project exploring the patterns and drivers behind insurance da
 ### 🌱 &nbsp;What I'm up to
 
 - 🚀 &nbsp;Building production-grade AI tools for operations, **in public**
+- 🤖 &nbsp;Going deeper on **multi-agent systems** with LangGraph
 - 🤝 &nbsp;Open to freelance work in **BI, automation &amp; applied AI**
-- ✍️ &nbsp;Writing a weekly *Building in Public* series on LinkedIn
-- 🔭 &nbsp;Going deeper on **end-to-end ML deployment &amp; AIOps**
+- ✍️ &nbsp;Writing a weekly *Weekend Build Series* on LinkedIn
+- 🔭 &nbsp;Exploring **end-to-end ML deployment &amp; AIOps**
 
 <br>
 
