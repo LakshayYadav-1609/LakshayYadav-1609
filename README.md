@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lalit-yadav-1609l"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://orcid.org/0009-0003-6144-9928"><img src="https://img.shields.io/badge/ORCID-0009--0003--6144--9928-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-  &nbsp;
-  <a href="mailto:lakshayyadav16091993@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/New%20Delhi,%20IN-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <a href="https://www.linkedin.com/in/lalit-yadav-1609l"><b>💼&nbsp;LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0003-6144-9928"><b>🎓&nbsp;ORCID</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:lakshayyadav16091993@gmail.com"><b>✉️&nbsp;Email</b></a>
+  &nbsp;·&nbsp;
+  <b>📍&nbsp;New&nbsp;Delhi,&nbsp;IN</b>
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 ### 👋 &nbsp;About
 
-Team Lead for Business Intelligence at **Cartus**, with **11+ years inside the global mobility &amp; relocation industry**. I work at the intersection of three things most people keep separate -**Business Intelligence, AI/ML, and process automation** -and use that mix to ship tools that save operations teams real hours, not just dashboards that look nice.
+Team Lead for Business Intelligence at **Cartus**, with **11+ years inside the global mobility &amp; relocation industry**. I work at the intersection of three things most people keep separate - **Business Intelligence, AI/ML, and process automation** - and use that mix to ship tools that save operations teams real hours, not just dashboards that look nice.
 
-Right now I'm building an **AI-first portfolio in public**: production-style apps that solve concrete operational problems end to end -from raw data to a deployed interface.
+Right now I'm building an **AI-first portfolio in public**: production-style apps that solve concrete operational problems end to end - from raw data to a deployed interface.
 
 ---
 
@@ -45,41 +45,46 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💰 &nbsp;<a href="https://github.com/LakshayYadav-1609/invoice-leak-detector">Invoice Leak Detector</a> &nbsp;<kbd>new</kbd></h4>
-      <p>A <b>multi-agent AI audit team</b> that checks 100% of vendor invoices against contracts -catches <i>ghost charges, overbilled rates & duplicate billing</i> with a <b>100% catch rate</b> on planted errors, then drafts and dispatches the dispute email automatically.</p>
+      <h4>📜 &nbsp;<a href="https://github.com/LakshayYadav-1609/contract-renewal-radar">Contract Renewal Radar</a> &nbsp;<kbd>new</kbd></h4>
+      <p>A <b>multi-agent AI system</b> that reads every vendor contract, tracks every negotiation window (renewal date minus notice period), builds the <i>leverage case with a ₹ savings target</i>, and drafts + dispatches the renegotiation email - <b>before the window closes</b>.</p>
       <sub><code>Python</code> · <code>LangGraph</code> · <code>Streamlit</code> · <code>Claude AI</code> · <code>Gmail SMTP</code></sub>
     </td>
     <td width="50%" valign="top">
+      <h4>💰 &nbsp;<a href="https://github.com/LakshayYadav-1609/invoice-leak-detector">Invoice Leak Detector</a></h4>
+      <p>A <b>multi-agent AI audit team</b> that checks 100% of vendor invoices against contracts - catches <i>ghost charges, overbilled rates & duplicate billing</i> with a <b>100% catch rate</b> on planted errors, then drafts and dispatches the dispute email automatically.</p>
+      <sub><code>Python</code> · <code>LangGraph</code> · <code>Streamlit</code> · <code>Claude AI</code> · <code>Gmail SMTP</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🔍 &nbsp;<a href="https://github.com/LakshayYadav-1609/attrition-autopsy">Attrition Autopsy</a></h4>
-      <p>A <b>multi-agent AI system</b> that investigates employee attrition like a forensic case -<b>4 LangGraph agents</b> uncover the <i>who, why, cost (₹) and save plan</i> for every predicted exit, then dispatch a case-file alert to HR's inbox in one click.</p>
+      <p>A <b>multi-agent AI system</b> that investigates employee attrition like a forensic case - <b>4 LangGraph agents</b> uncover the <i>who, why, cost (₹) and save plan</i> for every predicted exit, then dispatch a case-file alert to HR's inbox in one click.</p>
       <sub><code>Python</code> · <code>LangGraph</code> · <code>scikit-learn</code> · <code>Streamlit</code> · <code>Claude AI</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🛰️ &nbsp;<a href="https://github.com/LakshayYadav-1609/Regulatory-change-intelligence-monitor">Regulatory Change Intelligence Monitor</a></h4>
-      <p>AI watches <b>20+ government portals</b> for silent visa, labor-law and compliance changes, scores the impact on <b>each affected employee</b>, and fires <b>automated email alerts</b> -<i>caught in hours, not weeks.</i></p>
+      <p>AI watches <b>20+ government portals</b> for silent visa, labor-law and compliance changes, scores the impact on <b>each affected employee</b>, and fires <b>automated email alerts</b> - <i>caught in hours, not weeks.</i></p>
       <sub><code>Python</code> · <code>Streamlit</code> · <code>Anthropic</code> · <code>Automation</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧭 &nbsp;<a href="https://github.com/LakshayYadav-1609/-mobility-command-center">Mobility Operations Command Center</a></h4>
-      <p>A multi-page operations cockpit for global-mobility teams -live KPIs, alerts and case tracking behind a clean glassmorphism UI.</p>
-      <sub><code>Python</code> · <code>Streamlit</code></sub>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h4>🧭 &nbsp;<a href="https://github.com/LakshayYadav-1609/-mobility-command-center">Mobility Operations Command Center</a></h4>
+      <p>A multi-page operations cockpit for global-mobility teams - live KPIs, alerts and case tracking behind a clean glassmorphism UI.</p>
+      <sub><code>Python</code> · <code>Streamlit</code></sub>
+    </td>
     <td width="50%" valign="top">
       <h4>🔔 &nbsp;<a href="https://github.com/LakshayYadav-1609/smart-alert-system">Smart Business Alert System</a></h4>
       <p>Watches business data and fires intelligent, rule-driven alerts so teams act before issues escalate.</p>
       <sub><code>Python</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <h4>📄 &nbsp;<a href="https://github.com/LakshayYadav-1609/smart-pdf-chat">SmartPDF Chat</a></h4>
-      <p>Chat with any PDF -ask questions and get grounded answers pulled straight from the document.</p>
-      <sub><code>Python</code> · <code>LLM</code></sub>
-    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h4>📄 &nbsp;<a href="https://github.com/LakshayYadav-1609/smart-pdf-chat">SmartPDF Chat</a></h4>
+      <p>Chat with any PDF - ask questions and get grounded answers pulled straight from the document.</p>
+      <sub><code>Python</code> · <code>LLM</code></sub>
+    </td>
     <td width="50%" valign="top">
       <h4>📈 &nbsp;<a href="https://github.com/LakshayYadav-1609/Insurance-Analysis---Linear-Regression">Insurance Analysis</a></h4>
       <p>A Python analysis project exploring the patterns and drivers behind insurance data.</p>
@@ -88,7 +93,7 @@ Right now I'm building an **AI-first portfolio in public**: production-style app
   </tr>
 </table>
 
-> 💡 &nbsp;*Each project is a real operational problem solved end to end -not a tutorial clone.*
+> 💡 &nbsp;*Each project is a real operational problem solved end to end - not a tutorial clone.*
 
 ---
 
